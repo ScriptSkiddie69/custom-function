@@ -1,0 +1,3 @@
+local function hello(arg)
+    print(arg)
+end
