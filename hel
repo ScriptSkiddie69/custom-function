@@ -3,5 +3,3 @@ local func = {}
 func:Trint(args)
 print(args)
 end
-
-return func
